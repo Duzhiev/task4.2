@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box  ;
+}
+
+.commonBlock {
+    margin-left: 400px;
+}
+
+.footer1 {
+    display: flex;
+}
+
+.btn {
+    margin-left: 170px;
+    margin-top: 55px;
+    border: 2px solid rgb(62, 62, 255);
+    width: 100px;
+    height: 40px;
+    font-size: 23px;
+    text-align: center;
+    padding-top: 5px;
+    color: rgb(62, 62, 255);
+}
+
+.text{
+    font-size: 30px;
+    width: 490px;
+    height: 80px;
+    border-top: 1px solid gray;
+    padding-top: 20px;
+}
+
+.btn2 {
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid rgb(2, 161, 2);
+    background-color: rgb(2, 161, 2);
+    font-size: 18px;
+    margin-top: 20px;
+    color: white;
+}
+
+.delete {
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+    width: 200px;
+    border: none;
+    border-bottom: 2px solid red;
+    margin-top: 2px;
+}
+
+.addBlock {
+    width: 200px;
+    height: 150px;
+}
+
+.addbtn {
+    
+}
